@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 
 print("Enter the page link:")
 page_link = input()
-page_link = 'https://archive.org/download/archiveteam-twitter-stream-2018-06'
 page = ur.urlopen(page_link)
 soup = BeautifulSoup(page, 'html.parser')
 
