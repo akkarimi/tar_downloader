@@ -9,7 +9,9 @@ You need to have the following libraries:
   4. BeautifulSoup
   
 Run the code by the following command from the directory in which you have saved tar_downloader.py:
+  
   $ python3 tar_downloader
+  
 When asked, enter the url and you are good to go.
 
 You can all download other files with different extensions by just changing line 20 from '.tar' to the extension you want.
