@@ -10,7 +10,7 @@ You need to have the following libraries:
   
 Run the code by the following command from the directory in which you have saved tar_downloader.py:
   
-  $ python3 tar_downloader
+  $ python3 tar_downloader.py
   
 When asked, enter the url and you are good to go.
 
