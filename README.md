@@ -13,7 +13,7 @@ Run the code by the following command from the directory in which you have saved
   
   $ python3 tar_downloader.py
   
-When asked, enter the URL of the webpage and you are good to go.
+When asked, enter the URL of the webpage with no slash (/) at the end and you are good to go.
 
 You can also download other files with different extensions by just changing line 20 from '.tar' to the extension you want.
 
